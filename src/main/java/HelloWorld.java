@@ -12,5 +12,6 @@ public class HelloWorld {
     }
     public static void getName(){
         System.out.println("get name method");
+        System.out.println("add more to the method");
     }
 }
