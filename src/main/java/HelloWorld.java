@@ -8,6 +8,7 @@ public class HelloWorld {
         System.out.println("master changes");
         System.out.println("test changes");
         System.out.println("test2 changes");
+        getName();
 
     }
     public static void getName(){
