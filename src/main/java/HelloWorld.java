@@ -11,4 +11,7 @@ public class HelloWorld {
         System.out.println("master changes 3");
 
     }
+    public static void getName(){
+        System.out.println("get name method");
+    }
 }
