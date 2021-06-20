@@ -6,5 +6,6 @@ public class HelloWorld {
         System.out.println(StringUtils.capitalize("hello world"));
         System.out.println("master changes");
         System.out.println("test changes");
+        System.out.println("test2 changes");
     }
 }
