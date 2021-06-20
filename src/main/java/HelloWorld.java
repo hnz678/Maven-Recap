@@ -9,7 +9,8 @@ public class HelloWorld {
         System.out.println("test changes");
         System.out.println("test2 changes");
         System.out.println("master changes 3");
-
+        getName();
+      
     }
     public static void getName(){
         System.out.println("get name method");
