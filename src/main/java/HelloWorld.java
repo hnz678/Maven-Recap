@@ -7,5 +7,7 @@ public class HelloWorld {
         System.out.println("master2 changes");
         System.out.println("master changes");
         System.out.println("test changes");
+        System.out.println("test2 changes");
+
     }
 }
