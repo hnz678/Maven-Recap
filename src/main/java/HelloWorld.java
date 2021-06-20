@@ -10,4 +10,7 @@ public class HelloWorld {
         System.out.println("test2 changes");
 
     }
+    public static void getName(){
+        System.out.println("get name method");
+    }
 }
